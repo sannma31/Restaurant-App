@@ -295,6 +295,8 @@
 				DEVELOPMENT_TEAM = CU89FU49Q4;
 				GENERATE_INFOPLIST_FILE = YES;
 				INFOPLIST_FILE = "Restaurant App/Info.plist";
+				INFOPLIST_KEY_NSLocationAlwaysUsageDescription = "理由(例、端末の位置を常に地図に表示するために位置情報を利用します。)";
+				INFOPLIST_KEY_NSLocationWhenInUseUsageDescription = "理由(例、端末の位置を常に地図に表示するために位置情報を利用します。)";
 				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
 				INFOPLIST_KEY_UILaunchStoryboardName = LaunchScreen;
 				INFOPLIST_KEY_UIMainStoryboardFile = Main;
@@ -323,6 +325,8 @@
 				DEVELOPMENT_TEAM = CU89FU49Q4;
 				GENERATE_INFOPLIST_FILE = YES;
 				INFOPLIST_FILE = "Restaurant App/Info.plist";
+				INFOPLIST_KEY_NSLocationAlwaysUsageDescription = "理由(例、端末の位置を常に地図に表示するために位置情報を利用します。)";
+				INFOPLIST_KEY_NSLocationWhenInUseUsageDescription = "理由(例、端末の位置を常に地図に表示するために位置情報を利用します。)";
 				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
 				INFOPLIST_KEY_UILaunchStoryboardName = LaunchScreen;
 				INFOPLIST_KEY_UIMainStoryboardFile = Main;
